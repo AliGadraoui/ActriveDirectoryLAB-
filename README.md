@@ -43,7 +43,7 @@ AD simplifies user and resource management, enhances security through policies, 
 2. **Configure Network Settings**:
    - Ensure the virtual machine has the correct network configuration.
 
-   ![Network Connections] https://imgur.com/QDdDVXB
+   ![Network Connections] [https://imgur.com/QDdDVXB](https://github.com/AliGadraoui/ActriveDirectoryLAB-/blob/main/Ethernet.png?raw=true)
 
 ### Installation Process
 1. **Install Active Directory Domain Services (AD DS)**:
