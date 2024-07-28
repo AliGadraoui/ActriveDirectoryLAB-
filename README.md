@@ -43,7 +43,7 @@ AD simplifies user and resource management, enhances security through policies, 
 2. **Configure Network Settings**:
    - Ensure the virtual machine has the correct network configuration.
 
-   ![Network Connections] https://github.com/AliGadraoui/ActriveDirectoryLAB-/blob/main/Ethernet.png?raw=true
+   ![Network Connections](https://github.com/AliGadraoui/ActriveDirectoryLAB-/blob/main/Ethernet.png?raw=true)
 
 ### Installation Process
 1. **Install Active Directory Domain Services (AD DS)**:
@@ -57,7 +57,7 @@ AD simplifies user and resource management, enhances security through policies, 
 - **Adding Users**:
   - Use the AD Users and Computers tool to add new users.
 
-  ![Creating Users](./assets/Users2.png)
+  ![Creating Users](https://github.com/YourUsername/YourRepoName/raw/main/assets/Users2.png)
 
 ### Setting Up Policies
 - **Group Policies**:
@@ -67,23 +67,23 @@ AD simplifies user and resource management, enhances security through policies, 
 - **Computers**:
   - Add and manage computer objects in AD.
 
-  ![Computer Management](./assets/Client.png)
+  ![Computer Management](https://github.com/YourUsername/YourRepoName/raw/main/assets/Client.png)
 
 ## Screenshots and Visuals
 - **Active Directory Users and Computers**:
-  ![AD Users and Computers](./assets/Admin account.png)
+  ![AD Users and Computers](https://github.com/YourUsername/YourRepoName/raw/main/assets/Admin%20account.png)
 
 - **DHCP Configuration**:
-  ![DHCP](./assets/DHCP.png)
+  ![DHCP](https://github.com/YourUsername/YourRepoName/raw/main/assets/DHCP.png)
 
 - **Routing and Remote Access**:
-  ![Routing and Remote Access](./assets/Routing and remote access.png)
+  ![Routing and Remote Access](https://github.com/YourUsername/YourRepoName/raw/main/assets/Routing%20and%20remote%20access.png)
 
 - **IP Configuration on Client**:
-  ![IP Configuration](./assets/Ipconfig client.png)
+  ![IP Configuration](https://github.com/YourUsername/YourRepoName/raw/main/assets/Ipconfig%20client.png)
 
 - **Pinging the Domain**:
-  ![Pinging the Domain](./assets/Pinging the client.png)
+  ![Pinging the Domain](https://github.com/YourUsername/YourRepoName/raw/main/assets/Pinging%20the%20client.png)
 
 ## Troubleshooting and Tips
 - **Common Issues**:
@@ -92,10 +92,3 @@ AD simplifies user and resource management, enhances security through policies, 
 ## Conclusion
 Setting up Active Directory helps in centralizing network management and enhancing security.
 
-## References
-- [YouTube Tutorial Series](https://www.youtube.com/watch?v=MHsI8hJmggI&list=PLqBeiU46hx1H--SNfTrohTOWeqkK-M2Y0)
-
-## Contact
-For any questions or collaboration, feel free to reach out:
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/ali-gadraoui](https://www.linkedin.com/in/ali-gadraoui)
