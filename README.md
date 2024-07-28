@@ -43,7 +43,7 @@ AD simplifies user and resource management, enhances security through policies, 
 2. **Configure Network Settings**:
    - Ensure the virtual machine has the correct network configuration.
 
-   ![Network Connections](./assets/Ethernet.png)
+   ![Network Connections](https://imgur.com/QDdDVXB)
 
 ### Installation Process
 1. **Install Active Directory Domain Services (AD DS)**:
@@ -57,7 +57,7 @@ AD simplifies user and resource management, enhances security through policies, 
 - **Adding Users**:
   - Use the AD Users and Computers tool to add new users.
 
-  ![Creating Users](./assets/Users.png)
+  ![Creating Users](./assets/Users2.png)
 
 ### Setting Up Policies
 - **Group Policies**:
