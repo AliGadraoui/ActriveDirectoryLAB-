@@ -11,8 +11,6 @@ This project involves setting up and configuring Active Directory (AD) on a Wind
 - [Screenshots and Visuals](#screenshots-and-visuals)
 - [Troubleshooting and Tips](#troubleshooting-and-tips)
 - [Conclusion](#conclusion)
-- [References](#references)
-- [Contact](#contact)
 
 ## Introduction
 Active Directory (AD) is a vital directory service developed by Microsoft for Windows domain networks. It serves as a centralized hub for managing permissions, access, and resources within a network, thereby streamlining administrative tasks and enhancing security. AD enables administrators to manage and store information about network resources and application data, making it easier to maintain, secure, and organize a network infrastructure. This project showcases the setup and configuration of Active Directory using Windows Server and Oracle VM VirtualBox, illustrating the creation and management of users, computers, and other network resources.
